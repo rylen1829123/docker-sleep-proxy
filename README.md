@@ -39,37 +39,6 @@ docker pull ghcr.io/bvidotto/docker-sleep-proxy:latest
 
 ## Quick Start
 
-### Using Pre-built Image (Recommended)
-
-```yaml
-version: '3.8'
-
-services:
-  sleep-proxy:
-    image: ghcr.io/bvidotto/docker-sleep-proxy:latest
-    ports:
-      - '8000:8000'
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
-    environment:
-      - TARGET_SERVICE=myapp
-      - TARGET_PORT=8080
-      - SLEEP_TIMEOUT=3600  # 1 hour
-    networks:
-      - app-network
-    restart: unless-stopped
-
-  myapp:
-    image: your-app-image
-    expose:
-      - '8080'
-    networks:
-      - app-network
-
-networks:
-  app-network:
-```
-
 ### Building from Source
 
 ```yaml
